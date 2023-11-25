@@ -1,5 +1,5 @@
 CB = {
-    "Leather wallet": {"qty": 1, "up": 1100, "gst":18},
+    "LeatherWallet": {"qty": 1, "up": 1100, "gst":18},
     "Cigarette": {"qty": 4, "up": 900, "gst":12},
     "Umbrella": {"qty": 12, "up": 200, "gst":8},
     "Honey": {"qty": 28, "up": 100, "gst":0},
